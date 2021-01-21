@@ -6,10 +6,10 @@ The research questions we aimed to answer is whether or not it is safe to swim a
 
 The determination was made based on the acceptable levels of bacteria in each sampled location. The reference benchmark we used was US EPA recommended threshold -  235 CFU (colony forming units). 
 
-##Data 
+## Water Testing Data 
 
 
-##Weather and Beach Safety
+## Water Safety Chart
 
 
-##Map 
+## Beach Safety Map
